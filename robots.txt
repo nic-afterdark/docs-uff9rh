@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-nz3ysz.planetjp.online/sitemap.xml
